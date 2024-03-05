@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joseph Olorbida</h1>
-<h3 align="center">I’m interested in new Technology and learn as well.!</h3>
+<h3 align="center">I’m interested in new Technology...</h3>
 
 - 🌱 I’m currently learning **React,Vue,Rails,Laravel**
 
