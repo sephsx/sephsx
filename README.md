@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Joseph Olorbida</h1>
 <h3 align="center">I’m interested in new Technology and learn as well.!</h3>
 
-- 🌱 I’m currently learning **React,Vue,Rails,Laravel**
+- 🌱 I’m currently learning Web Development
 
 - 📫 How to reach me **https://www.facebook.com/seph.olorbida.33**
 
