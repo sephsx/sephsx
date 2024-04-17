@@ -1,28 +1,18 @@
-<h1 align="center">Hi 👋, I'm Joseph Olorbida</h1>
-<h3 align="center">I’m interested in new Technology and learn as well.!</h3>
-
-- 🌱 I’m currently learning Web Development
-
-- 📫 How to reach me **https://www.facebook.com/seph.olorbida.33**
-
-- ⚡ Fun fact **Im good at Start**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/sxephj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sxephj" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/joseph-olorbida" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joseph-olorbida" height="30" width="40" /></a>
-<a href="https://instagram.com/_sephq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_sephq" height="30" width="40" /></a>
-</p>
+# 💫 About Me:
+<br>🌱 I’m currently learning Web Development.<br>⚡ Fun fact Im good at Start
 
 
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/seph.olorbida.33) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/_sephq) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/joseph-olorbida) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://twitter.com/sxephj) 
 
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=sephsx&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sephsx&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sephsx&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<a href="https://youtube.com/shorts/SXHMnicI6Pg?feature=share" rel="nofollow">
-  <img align="right" alt="Braydon's Facebook" width="32px" src="https://user-images.githubusercontent.com/47686437/168548113-b3cd4206-3281-445b-b7c6-bc0a3251293d.png" style="max-width: 100%;">
-</a>
+---
+[![](https://visitcount.itsvg.in/api?id=sephsx&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![dsadasdasd](https://duepy-stats.vercel.app/api?username=sephsx&show_icons=true&theme=transparent&hide_border=true&line_height=35&custom_title=sephsx's%20Github%20Stats)
-![asdadasd](https://duepy-stats.vercel.app/api/top-langs/?username=sephsx&theme=transparent&hide_border=true&hide_title=true)
-
-![asdasda](https://github-readme-streak-stats.herokuapp.com/?user=sephsx&theme=transparent&hide_border=true&card_width=765)
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
