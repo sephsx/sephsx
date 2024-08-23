@@ -1,6 +1,6 @@
 # 💫 About Me
 <div align="center">
-Hi 👋, I'm Joseph Olorbida<br><br>I’m interested in new Technology and learn as well.!<br><br>🌱 I’m currently learning Web Development.<br>⚡ Fun fact Im good at Start
+Hi 👋, I'm Joseph Olorbida<br><br>I’m interested in new Technology and learn as well.!<br><br>🌱 I’m currently learning Web Development.
 
 
 ## 🌐 Socials:
