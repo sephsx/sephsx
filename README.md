@@ -16,8 +16,6 @@ Hi 👋, I'm Joseph Olorbida<br><br>I’m interested in new Technology and learn
 
 
 
-[![](https://visitcount.itsvg.in/api?id=sephsx&icon=0&color=0)](https://visitcount.itsvg.in)
-
 
 
 </div>
