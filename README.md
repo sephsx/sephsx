@@ -2,6 +2,8 @@
 <div align="center">
 # 💫 About Me:
 H i  I ' m  J o s e p h :D  <br>I ' m L e a r n i n g  n e w  T e c h n o l o g y  A s p i r i n g  D e v. ;)
+<br>
+C h a t g p t | AI A b u s e r
 
 
 ## 🌐 Socials:
