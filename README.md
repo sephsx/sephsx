@@ -1,10 +1,20 @@
+<div align="center">
+
 # 💫 About Me
+
 Hi, I’m Joseph 👋  
 Aspiring Software Developer and IT enthusiast focused on building modern web applications and understanding real-world infrastructure systems.
 
 I enjoy learning how software connects with physical systems, from web platforms to industrial environments.
 
-Currently exploring:
+</div>
+
+---
+
+<div align="center">
+
+## 🚀 Currently Exploring
+
 - Web Development (Frontend & Backend)
 - Laravel & PHP Ecosystem
 - React & Modern JavaScript
@@ -14,20 +24,36 @@ Currently exploring:
 - Industrial Systems & Operational Technology (OT)
 - Industrial Automation Concepts (Siemens environments)
 
+</div>
+
+---
+
+<div align="center">
+
 I’m passionate about building solutions that bridge software, networking, and industrial systems.
 
+</div>
+
 ---
+
+<div align="center">
 
 ## 🌐 Socials
-[Facebook](https://www.facebook.com/seph.olorbida.33/) •  
-[Instagram](https://www.instagram.com/seph_q/) •  
-[LinkedIn](https://www.linkedin.com/in/joseph-olorbida-007550232/)
+
+<a href="https://www.facebook.com/seph.olorbida.33/">Facebook</a> •
+<a href="https://www.instagram.com/seph_q/">Instagram</a> •
+<a href="https://www.linkedin.com/in/joseph-olorbida-007550232/">LinkedIn</a>
+
+</div>
 
 ---
+
+<div align="center">
 
 ## 💻 Tech Stack
 
 ### Web Development
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -38,16 +64,27 @@ I’m passionate about building solutions that bridge software, networking, and 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
+---
+
 ### Networking & Systems
+
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=white)
 ![Siemens](https://img.shields.io/badge/siemens-%23009999.svg?style=for-the-badge&logo=siemens&logoColor=white)
 
+---
+
 ### Industrial & OT
+
 - Operational Technology (OT)
 - Industrial Automation Concepts
 - SCADA / PLC Awareness
 - Industrial Network Systems
 
+---
+
 ### Tools
+
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
