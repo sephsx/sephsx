@@ -97,25 +97,5 @@ modern frameworks, and understanding Operational Technology (OT) environments.
 
 ---
 
-<div align="center">
-
-## 📚 Currently Learning
-
-```txt
-✔ Laravel Ecosystem
-✔ React & Vue
-✔ Flutter Development
-✔ Networking Fundamentals
-✔ Operational Technology (OT)
-✔ Industrial Automation Concepts
-✔ API & System Integration
-```
-
----
-
-### ⚡ Goal
-
-To build solutions that connect software, networking,  
-and industrial infrastructure into real-world systems.
 
 </div>
