@@ -92,12 +92,3 @@ Currently focused on backend systems, APIs, and Operational Technology (OT) envi
 
 ---
 
-<div align="center">
-
-## 📈 Goals
-
-Become a production-level full-stack engineer  
-Specialize in system architecture + industrial software integration  
-Build real-world scalable platforms  
-
-</div>
