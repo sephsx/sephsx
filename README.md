@@ -33,23 +33,11 @@ Tools      Git · GitHub · Vite
 Systems    Cisco · Linux · Node-RED · InfluxDB
 ```
 
-<br/>
-
-**Projects**
-
-| | Project | Stack |
-|---|---|---|
-| ◆ | **Dirti Coffee POS** | Laravel · Livewire · Alpine.js · Tailwind |
-| ◆ | **Fleet / LPR System** | Laravel · Chart.js |
-| ◆ | **ClearLeave HR Portal** | Laravel · Livewire |
-| ◆ | **GEDI Gateway V3** | Vite · React · Node-RED |
-
-<br/>
 
 **Currently**
 
 - Building an IoT sensor monitoring dashboard (GEDI Gateway V3)
-- Studying CCNA 1 ITN via Cisco NetAcad
+- Experienced on OT & Sensors
 - Exploring OT/industrial system integration
 
 <br/>
