@@ -9,67 +9,95 @@
 
 ---
 
+<div align="center">
+
 ## 🚀 About Me
 
-I am a software developer focused on building scalable web applications and integrating modern software solutions with networking and industrial systems.
+I build scalable web applications and explore how software integrates with networking and industrial systems.  
+Currently focused on backend systems, APIs, and Operational Technology (OT) environments.
 
-I currently work with web technologies and continue expanding into Operational Technology (OT), automation systems, and infrastructure-level engineering.
+</div>
 
 ---
+
+<div align="center">
 
 ## 🧠 Core Focus Areas
 
-- Full-stack web development (Laravel, PHP, React, Vue)
-- API and backend system design
-- Mobile application development (Flutter)
-- Networking fundamentals and infrastructure systems
-- Industrial systems / OT (SCADA, PLC, automation concepts)
+</div>
+
+<p align="center">
+⚙️ Full-stack Web Development (Laravel, PHP, React, Vue)<br/>
+🔌 API & Backend System Architecture<br/>
+📱 Mobile Development (Flutter, Dart)<br/>
+🌐 Networking & Infrastructure Concepts<br/>
+🏭 Industrial Systems / OT (SCADA, PLC, Automation)
+</p>
 
 ---
 
-## 🌐 Connect
+<div align="center">
 
-- Facebook: <a href="https://www.facebook.com/seph.olorbida.33/">Profile</a>  
-- Instagram: <a href="https://www.instagram.com/seph_q/">Profile</a>  
-- LinkedIn: <a href="https://www.linkedin.com/in/joseph-olorbida-007550232/">Profile</a>  
+## 🌐 Connect With Me
+
+<a href="https://www.facebook.com/seph.olorbida.33/">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/seph_q/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/joseph-olorbida-007550232/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
 
 ---
+
+<div align="center">
 
 ## 💻 Tech Stack
 
-### Frontend
-HTML • CSS • JavaScript • React • Vue • TailwindCSS  
+### Frontend  
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,vue,tailwind" />
 
-### Backend
-PHP • Laravel • Livewire • REST APIs  
+### Backend  
+<img src="https://skillicons.dev/icons?i=php,laravel" />
 
-### Mobile
-Flutter • Dart  
+### Mobile  
+<img src="https://skillicons.dev/icons?i=flutter,dart" />
 
-### Database & Tools
-MySQL • Git • GitHub  
+### Database & Tools  
+<img src="https://skillicons.dev/icons?i=mysql,git,github" />
 
-### Networking & Systems
-Cisco Networking • Network Infrastructure Concepts  
+### Networking & Systems  
+<img src="https://skillicons.dev/icons?i=cisco" />
 
-### Industrial / OT Systems
-SCADA Systems • PLC Fundamentals • Industrial Automation Concepts  
+</div>
 
 ---
+
+<div align="center">
 
 ## 📌 Currently Working On
 
-- Web-based systems and dashboards
-- API-driven applications
-- Learning OT integration with modern web systems
-- Strengthening backend architecture skills
+- Scalable web applications  
+- API-driven systems  
+- Industrial / OT integration concepts  
+- Backend architecture improvement  
+
+</div>
 
 ---
+
+<div align="center">
 
 ## 📈 Goals
 
-- Become a full-stack systems engineer
-- Gain deeper expertise in industrial automation + software integration
-- Build production-level scalable systems
+Become a production-level full-stack engineer  
+Specialize in system architecture + industrial software integration  
+Build real-world scalable platforms  
 
----
+</div>
