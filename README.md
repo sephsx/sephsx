@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=1000&color=0EA5E9&center=true&vCenter=true&width=520&lines=Full-Stack+%26+IoT%2FOT+Developer;Laravel+%C2%B7+React+%C2%B7+Node.js+%C2%B7+WebSockets;Modbus+RTU+%C2%B7+LoRaWAN+%C2%B7+InfluxDB;Building+where+hardware+meets+the+web" alt="Typing SVG" />
 
@@ -60,4 +60,4 @@ Infra       Railway · Netlify · Linux · Git
 
 <img src="https://komarev.com/ghpvc/?username=sephsx&style=flat-square&color=0EA5E9&label=profile+views" />
 
-</div>
+</div> -->
